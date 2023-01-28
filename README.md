@@ -1,5 +1,5 @@
 # Wall-Finder
-Arduino obstacle finding bot
+----------------------Arduino obstacle finding bot--------------------------------------------------------
 The Bot has Two Wheels and a tracker in the front. Both the wheels are connectred to DC mototrs for controlling the movement of the bot.
 The motors are connected to the L298N H bridge 
 The HC SR04 Ultrasonic sensor is used to detect the obstacles ahead of it. All these peripherels are connected to Arduino Uno.
